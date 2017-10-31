@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/sa_blue</item>
+        <item name="android:backgroundStacked">@color/stacked_green</item>
+        <item name="android:backgroundSplit">@color/sa_blue</item>
+    </style>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+    </style>
+</resources>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.alembic.TravelExpense.HomeActivity">
+
+      
+    <item android:id="@+id/edit"
+          android:icon="@drawable/ic_action_edit"
+          android:title="AddExpense"
+          android:showAsAction="ifRoom"/>
+    
+
+</menu>
